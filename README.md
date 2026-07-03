@@ -1,4 +1,4 @@
-# Tugas 03 Inheritance - Java OOP
+# Tugas 03 Inheritance - Java OOPs
 
 Project ini dibuat menggunakan Java di NetBeans untuk memenuhi tugas mata kuliah Pemrograman Berbasis Objek (OOP).
 
